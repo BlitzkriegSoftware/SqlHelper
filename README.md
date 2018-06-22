@@ -1,6 +1,7 @@
 # SqlHelper #
 C# ADO.NET Helper
 
+See: <a href="Sandcastle%2FHelp%2FSqlHelper.chm" target="_blank">Help File</a> (You may need to unlock it)
 
 ## About me ##
 
